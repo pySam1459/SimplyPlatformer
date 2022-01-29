@@ -1,0 +1,7 @@
+0{This is gonna be where a chest is in the future, so hold on!}
+1{Welcome To This Platformer Game!
+It's very simple, try and reach the end...
+Don't get killed now,
+and Have Fun!}
+2{This is the end.
+Hope you have enjoyed!}
